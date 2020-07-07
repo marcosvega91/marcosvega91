@@ -7,3 +7,4 @@ I'm an italian guy that loves programming especially web developing.
 I love cats 🐱
 
 
+![Me](Pg 1.png)
